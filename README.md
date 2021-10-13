@@ -1,3 +1,3 @@
 # datascience
 
-contains assiognment files.
+contains assignment files.
