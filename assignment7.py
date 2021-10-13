@@ -1,2 +1,2 @@
 # all is well
-to chect  the git update
+# to chect  the git update
